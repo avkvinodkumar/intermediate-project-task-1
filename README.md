@@ -15,6 +15,15 @@ This repository contains a machine learning project that aims to predict custome
 * Model evaluation and validation (accuracy, precision, recall, F1-score)
 * Deployment of the trained model in a production environment
 
+** Files**:
+
+data_preprocessing.ipynb: Jupyter notebook containing data preprocessing and feature engineering code
+feature_selection.ipynb: Jupyter notebook containing feature selection and dimensionality reduction code
+model_training.ipynb: Jupyter notebook containing model selection and training code
+model_evaluation.ipynb: Jupyter notebook containing model evaluation and validation code
+model_deployment.py: Python script containing the deployed model code
+requirements.txt: File listing dependencies required to run the project
+
 
 
 **Dependencies:**
